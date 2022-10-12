@@ -40,3 +40,4 @@ fuel_station.open_fuel_slot("diesel")
 fuel_station.fuel_vehicle("diesel")
 fuel_station.open_fuel_slot("electric")
 fuel_station.open_fuel_slot("electric")
+
