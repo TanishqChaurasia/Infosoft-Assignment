@@ -1,6 +1,5 @@
 from typing import Optional
 
-
 class Node():
     def __init__(self, start: int, end: int):
         self.start: int = start
